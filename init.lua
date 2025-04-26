@@ -1,6 +1,6 @@
 --[[
 
-=====================================================================
+==aa===================================================================
 ==================== READ THIS BEFORE CONTINUING ====================
 =====================================================================
 ========                                    .-----.          ========
@@ -234,6 +234,7 @@ require('lazy').setup({
   'christoomey/vim-tmux-navigator',
   'ThePrimeagen/vim-be-good',
   'ellisonleao/gruvbox.nvim',
+  'vimpostor/vim-tpipeline',
 
   -- NOTE: Plugins can also be added by using a table,
   -- with the first argument being the link and the following
